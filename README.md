@@ -14,13 +14,15 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+-->
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -29,18 +31,19 @@
     <img src="public/icon-192.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Saltong</h3>
+  <h3 align="center">It kanan</h3>
 
   <p align="center">
-    A Filipino Wordle-like game
+    A Waray-Waray Wordle-like game
+    Work in progress
     <br />
     <br />
     <br />
-    <a href="https://saltong.carldegs.com">Website</a>
+    <a href="https://github.com/gregorylearns/saltong">Website</a>
     ·
-    <a href="https://github.com/carldegs/saltong/issues">Report Bug</a>
+    <a href="https://github.com/gregorylearns/saltong/issues">Report Bug</a>
     ·
-    <a href="https://github.com/carldegs/saltong/issues">Request Feature</a>
+    <a href="https://github.com/gregorylearns/saltong/issues">Request Feature</a>
   </p>
 </div>
 
@@ -77,43 +80,12 @@
   <img src="https://i.imgur.com/xDz0jAw.jpg" alt="Logo" width="180" >
 </div>
 
+Forked from https://github.com/carldegs/saltong
+
 Saltong started as a personal project that clones Wordle but uses Filipino words. Now, Saltong is composed of four games based on Wordle and the NYT Spelling Bee
 
-### Saltong
-<a href="saltong.carldegs.com">
-  <img src="public/icon-192.png" alt="Logo" width="80" height="80">
-</a>
 
-Based on the original Wordle, with 5-letter words and 6 turns.
-
-<br/>
-
-### Saltong Min
-<a href="https://github.com/carldegs/saltong">
-  <img src="public/mini.png" alt="Logo" width="80" height="80">
-</a>
-
-Same as Saltong but with a 4-letter words and 5 turns.
-
-<br/>
-
-### Saltong Max
-<a href="https://github.com/carldegs/saltong">
-  <img src="public/max.png" alt="Logo" width="80" height="80">
-</a>
-
-Same as Saltong but with a 7-letter words and 8 turns.
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br/>
-
-### Saltong Hex
-<a href="https://github.com/carldegs/saltong">
-  <img src="public/hex.png" alt="Logo" width="80" height="80">
-</a>
-
-Based on the NYT Spelling Bee but uses Filipino words.
-
+Based on the NYT Spelling Bee but uses ~Filipino~ Waray-waray words.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
