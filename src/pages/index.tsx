@@ -115,7 +115,7 @@ const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>{`Saltong${
+        <title>{`It Kanan${
           gameMode !== GameMode.main ? ` ${gameMode?.toUpperCase()}` : ''
         }`}</title>
       </Head>
@@ -147,7 +147,7 @@ const Home: React.FC = () => {
         <HStack my={4} w="full">
           <Box>
             <Flex>
-              <Heading size="lg">Saltong</Heading>
+              <Heading size="lg">It Kanan</Heading>
               {gameMode !== GameMode.main && (
                 <Heading
                   size="lg"
